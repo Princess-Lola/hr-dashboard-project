@@ -3,6 +3,9 @@
 This repository hosts a Tableau Public dashboard that visualizes **Human Resources analytics** across key workforce dimensions — including hiring, termination, demographics, performance, and compensation.  
 The goal is to provide HR teams and management with data-driven insights for better decision-making and talent management.
 
+
+![Human Resources Dashboard Preview](images/over.JPG)
+
 ---
 
 ## 🚀 Overview
@@ -66,7 +69,7 @@ Users can explore data dynamically through filters by department, location, gend
 
 ## 📷 Dashboard Preview
 
-![Human Resources Dashboard Preview](./over.JPG)
+![Human Resources Dashboard Preview](images/over.JPG)
 
 > *Image: HR analytics dashboard visualizing employee demographics, education-performance relationship, and salary-age trends.*
 
